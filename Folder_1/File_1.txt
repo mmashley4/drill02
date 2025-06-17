@@ -1,0 +1,10 @@
+Attached are two articles from the current issue of NDU’s Joint Force Quarterly that reflect much of the work we are doing here in Mission Integration.
+The thesis statement from the first article, Breaking the Shield: Countering Drone Defenses, asserts that “as drone swarms are developed on massive scales and become weapons of mass destruction, the counter-drone challenge becomes even greater. Full spectrum drone warfare across every domain may define the so-called Third Drone Age.”
+From radio frequency and jammers to directed-energy weapons and autonomy manipulation, the article summarizes “11 different approaches to breaking the drone shield.” See the Drone Counter-Countermeasures table below.
+And in a well-written overview of drone defense operations and countermeasures to drone defenses, the article discusses the detection/identification and interdiction systems that comprise basic drone defense and then concludes with policy recommendations on how to best understand adversary drone defense.
+If you are interested in learning more about the counter-drone challenge, please access this link …. 
+The other article, Mission (Command) Complete: Implications of JADC2, discusses the Defense Department’s ongoing C2 network transition to support the JADC2 concept—the joint force’s modernization effort. 
+Following a brief mention of USD(R&E) Hon. Shyu’s vision of JADC2 serving as a force unifier, the essay explains that the “battle network, or kill chain, is a model for understanding what the command and control warfighting function entails” and describes the Services’ modernization contributions to JADC2, such as the Air Force’s Advanced Battle Management System, the Army’s Project Convergence, and the Navy’s Project Overmatch. The column concludes by revealing the decision-making challenge of bias toward “improving legacy systems instead of finding new, more effective means of integrating present and future joint warfighting capabilities.”
+ To learn more about the JADC2 concept and its strategic-level developments ….
+
+Source: All quotes and the table were borrowed from JFQ issue 113.
